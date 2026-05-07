@@ -1,0 +1,1416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shop.morganwallen.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shop.morganwallen.com/collections/im-the-problem.atom"/>
+  <title>Morgan Wallen Official Store</title>
+  <updated>2025-11-25T12:00:11-05:00</updated>
+  <author>
+    <name>Morgan Wallen Official Store</name>
+  </author>
+  <entry>
+    <id>https://shop.morganwallen.com/products/10072534417722</id>
+    <published>2025-11-25T12:00:11-05:00</published>
+    <updated>2025-11-25T12:00:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/im-the-problem-limited-edition-cd-zine"/>
+    <title>I&apos;m The Problem Limited Edition CD Zine</title>
+    <s:type>2CD</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/ZINEFRONTVIEW.png?v=1763732740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>2CD<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The 12-week Billboard #1 album I’m The Problem is expanded into this collectible limited-edition 100-page glossy-cover zine including articles written by Morgan Wallen, interviews with him and key collaborators on the project, exclusive never-before-seen photos, lyrics from all 37 tracks and I’m The Problem on 2-Disc CD.</p>
+<p>Tracklist: <br>Disc 1</p>
+<p>1. I'm The Problem<br>2. I Got Better<br>3. Superman<br>4. What I Want (feat. Tate McRae)<br>5. Just In Case<br>6. Interlude<br>7. Falling Apart<br>8. Skoal, Chevy, and Browning<br>9. Eyes Are Closed<br>10. Kick Myself<br>11. 20 Cigarettes<br>12. TN<br>13. Missing<br>14. Where'd That Girl Go<br>15. Genesis<br>16. Revelation<br>17. Number 3 and Number 7 (feat. Eric Church)<br>18. Kiss Her In Front Of You<br>19. If You Were Mine</p>
+<p>Disc 2<br>1. Don't We<br>2. Come Back As A Redneck (feat. HARDY)<br>3, Love Somebody<br>4. Dark Til Daylight<br>5. The Dealer (feat. ERNEST)<br>6. Leavin's The Least I Could Do<br>7. Jack and Jill<br>8. I Ain't Comin' Back (feat. Post Malone)<br>9. Nothin' Left<br>10. Drinking Til It Does<br>11. Smile<br>12. Working Man's Song<br>13. Whiskey In Reverse<br>14. Crazy Eyes<br>15. LA Night<br>16. Miami<br>17. Lies Lies Lies<br>18. I'm A Little Crazy</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>music-product</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>WALLEN-00030</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10072534417722</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>00602478080364</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/10057729245498</id>
+    <published>2025-11-13T13:00:10-05:00</published>
+    <updated>2025-11-13T13:00:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/i-m-the-problem-long-sleeve-baby-tee"/>
+    <title>I’m The Problem Long Sleeve Baby Tee</title>
+    <s:type>Longsleeve T-Shirt</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_ECOM_HOLIDAY25-BABY-LS-FRONT.png?v=1761927763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Longsleeve T-Shirt<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Natural micro rib long sleeve baby tee featuring screen printed graphics on front, back, and sleeves</p>
+<p><meta charset="utf-8"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>Apparel</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>Tees</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00038</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10057729245498</id>
+      <title>S</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>839542003</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10057729245498</id>
+      <title>M</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>839542004</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10057729245498</id>
+      <title>L</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>839542005</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10057729245498</id>
+      <title>XL</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>839542006</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10057729245498</id>
+      <title>2XL</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>839542007</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/10057670754618</id>
+    <published>2025-11-13T13:00:09-05:00</published>
+    <updated>2025-11-13T13:00:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/don-t-we-zip-up-hoodie"/>
+    <title>Don’t We Zip Up Hoodie</title>
+    <s:type>Hoodie (zip up)</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_ECOM_HOLIDAY25-ZIP-HOODIE-FRONT.png?v=1761927351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Hoodie (zip up)<br>
+        <strong>Price: </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Army green midweight full zip hoodie featuring screen printed graphics on front and back</p>
+<p><meta charset="utf-8"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>Apparel</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>sweatshirt</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00038</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10057670754618</id>
+      <title>S</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>839541993</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10057670754618</id>
+      <title>M</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>839541994</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10057670754618</id>
+      <title>L</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>839541995</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10057670754618</id>
+      <title>XL</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>839541996</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10057670754618</id>
+      <title>2XL</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>839541997</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/10055390167354</id>
+    <published>2025-10-30T09:01:05-04:00</published>
+    <updated>2025-10-30T09:01:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/still-the-problem-tour-t-shirt"/>
+    <title>Still The Problem Tour T-Shirt</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_26_TOUR_ADMATEE-FRONT.png?v=1761828406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Denim garment dyed t-shirt featuring screen printed graphics on front and back.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>Apparel</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>Tees</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00037</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10055390167354</id>
+      <title>S</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>839541973</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10055390167354</id>
+      <title>M</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>839541974</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10055390167354</id>
+      <title>L</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>839541975</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10055390167354</id>
+      <title>XL</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>839541976</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10055390167354</id>
+      <title>2XL</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>839541977</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9901694452026</id>
+    <published>2025-10-03T18:44:31-04:00</published>
+    <updated>2025-10-03T18:44:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/sand-in-my-boots-festival-exclusive-coke-bottle-clear-vinyl"/>
+    <title>Sand In My Boots Festival Exclusive Coke Bottle Clear Vinyl</title>
+    <s:type>3LP</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/SIMB.png?v=1746758147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>3LP<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Morgan Wallen’s fourth album featuring the #1 singles “Lies, Lies, Lies”, “Love Somebody”, and the latest hit “I’m The Problem”.</p>
+<p>Please note that each vinyl is unique, and the colors may appear slightly different from the image displayed.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>ITPmusic</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>music-product</s:tag>
+    <s:tag>rush_launch</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>USONLY</s:tag>
+    <s:tag>WALLEN-00015</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901694452026</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>00602475886402</s:sku>
+      <s:grams>1261</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9839110357306</id>
+    <published>2025-10-03T18:42:34-04:00</published>
+    <updated>2025-10-03T18:42:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/im-the-problem-digital-album"/>
+    <title>I&apos;m The Problem Digital Album</title>
+    <s:type>Digital</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/lkergklg.png?v=1742493575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Digital<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Morgan Wallen’s fourth album featuring the #1 singles “Lies, Lies, Lies”, “Love Somebody”, and the latest hit “I’m The Problem”.</p>
+<p><meta charset="utf-8"><meta charset="utf-8"><span>Digital downloads are delivered as mp3 44.1khz/320kbps audio files.</span></p>
+<p>Tracklist:</p>
+<ol start="1" type="1">
+<li class="MsoListParagraph"><span>I'm The Problem</span></li>
+<li class="MsoListParagraph"><span>I Got Better</span></li>
+<li class="MsoListParagraph"><span>Superman</span></li>
+<li class="MsoListParagraph"><span>What I Want (feat. Tate McRae)</span></li>
+<li class="MsoListParagraph"><span>Just In Case</span></li>
+<li class="MsoListParagraph"><span>Interlude</span></li>
+<li class="MsoListParagraph"><span>Falling Apart</span></li>
+<li class="MsoListParagraph"><span>Skoal, Chevy, and Browning</span></li>
+<li class="MsoListParagraph"><span>Eyes Are Closed</span></li>
+<li class="MsoListParagraph"><span>Kick Myself</span></li>
+<li class="MsoListParagraph"><span>20 Cigarettes</span></li>
+<li class="MsoListParagraph"><span>TN</span></li>
+<li class="MsoListParagraph"><span>Missing</span></li>
+<li class="MsoListParagraph"><span>Where'd That Girl Go</span></li>
+<li class="MsoListParagraph"><span>Genesis</span></li>
+<li class="MsoListParagraph"><span>Revelation</span></li>
+<li class="MsoListParagraph"><span>Number 3 and Number 7 (feat. Eric Church)</span></li>
+<li class="MsoListParagraph"><span>Kiss Her In Front Of You</span></li>
+<li class="MsoListParagraph"><span>If You Were Mine </span></li>
+<li class="MsoListParagraph"><span>Don't We</span></li>
+<li class="MsoListParagraph"><span>Come Back As A Redneck (feat. HARDY)</span></li>
+<li class="MsoListParagraph"><span>Love Somebody</span></li>
+<li class="MsoListParagraph"><span>Dark Til Daylight</span></li>
+<li class="MsoListParagraph"><span>The Dealer (feat. ERNEST)</span></li>
+<li class="MsoListParagraph"><span>Leavin's The Least I Could Do</span></li>
+<li class="MsoListParagraph"><span>Jack and Jill</span></li>
+<li class="MsoListParagraph"><span>I Ain't Comin' Back (feat. Post Malone)</span></li>
+<li class="MsoListParagraph"><span>Nothin' Left</span></li>
+<li class="MsoListParagraph"><span>Drinking Til It Does</span></li>
+<li class="MsoListParagraph"><span>Smile</span></li>
+<li class="MsoListParagraph"><span>Working Man's Song</span></li>
+<li class="MsoListParagraph"><span>Whiskey In Reverse</span></li>
+<li class="MsoListParagraph"><span>Crazy Eyes</span></li>
+<li class="MsoListParagraph"><span>LA Night</span></li>
+<li class="MsoListParagraph"><span>Miami</span></li>
+<li class="MsoListParagraph"><span>Lies Lies Lies</span></li>
+<li class="MsoListParagraph"><span>I'm A Little Crazy</span></li>
+</ol>
+<p><br></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>digital</s:tag>
+    <s:tag>ITPmusic</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>music-product</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>rush_launch</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>WALLEN-00006</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9839110357306</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>00602478099533</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9839110226234</id>
+    <published>2025-10-03T18:42:32-04:00</published>
+    <updated>2025-10-03T18:42:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/im-the-problem-2cd"/>
+    <title>I&apos;m The Problem 2CD</title>
+    <s:type>2CD</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/ITP_CD.png?v=1742493572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>2CD<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Morgan Wallen’s fourth album featuring the #1 singles “Lies, Lies, Lies”, “Love Somebody”, and the latest hit “I’m The Problem”.</p>
+<p>Tracklist:<span> </span></p>
+<p class="MsoNormal"><b><span>Disc 1</span></b></p>
+<ol start="1" type="1">
+<li class="MsoListParagraph"><span>I'm The Problem</span></li>
+<li class="MsoListParagraph"><span>I Got Better</span></li>
+<li class="MsoListParagraph"><span>Superman</span></li>
+<li class="MsoListParagraph"><span>What I Want (feat. Tate McRae)</span></li>
+<li class="MsoListParagraph"><span>Just In Case</span></li>
+<li class="MsoListParagraph"><span>Interlude</span></li>
+<li class="MsoListParagraph"><span>Falling Apart</span></li>
+<li class="MsoListParagraph"><span>Skoal, Chevy, and Browning</span></li>
+<li class="MsoListParagraph"><span>Eyes Are Closed</span></li>
+<li class="MsoListParagraph"><span>Kick Myself</span></li>
+<li class="MsoListParagraph"><span>20 Cigarettes</span></li>
+<li class="MsoListParagraph"><span>TN</span></li>
+<li class="MsoListParagraph"><span>Missing</span></li>
+<li class="MsoListParagraph"><span>Where'd That Girl Go</span></li>
+<li class="MsoListParagraph"><span>Genesis</span></li>
+<li class="MsoListParagraph"><span>Revelation</span></li>
+<li class="MsoListParagraph"><span>Number 3 and Number 7 (feat. Eric Church)</span></li>
+<li class="MsoListParagraph"><span>Kiss Her In Front Of You</span></li>
+<li class="MsoListParagraph"><span>If You Were Mine</span></li>
+</ol>
+<p class="MsoNormal"><b><span>Disc 2</span></b></p>
+<ol start="1" type="1">
+<li class="MsoListParagraph"><span>Don't We</span></li>
+<li class="MsoListParagraph"><span>Come Back As A Redneck (feat. HARDY)</span></li>
+<li class="MsoListParagraph"><span>Love Somebody</span></li>
+<li class="MsoListParagraph"><span>Dark Til Daylight</span></li>
+<li class="MsoListParagraph"><span>The Dealer (feat. ERNEST)</span></li>
+<li class="MsoListParagraph"><span>Leavin's The Least I Could Do</span></li>
+<li class="MsoListParagraph"><span>Jack and Jill</span></li>
+<li class="MsoListParagraph"><span>I Ain't Comin' Back (feat. Post Malone)</span></li>
+<li class="MsoListParagraph"><span>Nothin' Left</span></li>
+<li class="MsoListParagraph"><span>Drinking Til It Does</span></li>
+<li class="MsoListParagraph"><span>Smile</span></li>
+<li class="MsoListParagraph"><span>Working Man's Song</span></li>
+<li class="MsoListParagraph"><span>Whiskey In Reverse</span></li>
+<li class="MsoListParagraph"><span>Crazy Eyes</span></li>
+<li class="MsoListParagraph"><span>LA Night</span></li>
+<li class="MsoListParagraph"><span>Miami</span></li>
+<li class="MsoListParagraph"><span>Lies Lies Lies</span></li>
+<li class="MsoListParagraph"><span>I'm A Little Crazy</span></li>
+</ol>
+<p class="MsoNormal"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>Collective_morganwallen</s:tag>
+    <s:tag>Complex_Collective</s:tag>
+    <s:tag>ITPmusic</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>music-product</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>rush_launch</s:tag>
+    <s:tag>Shopify Collective</s:tag>
+    <s:tag>Stationhead</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>USONLY</s:tag>
+    <s:tag>WALLEN-00006</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9839110226234</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>00602475954682</s:sku>
+      <s:grams>281</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9839110193466</id>
+    <published>2025-10-03T18:42:31-04:00</published>
+    <updated>2025-10-03T18:42:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/im-the-problem-black-3lp"/>
+    <title>I&apos;m The Problem Black 3LP</title>
+    <s:type>3LP</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/vinyl_itpblack3lp_2048x2048_12e78356-2fc5-4d1e-9ef3-d464cf5995f0.png?v=1775844384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>3LP<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Morgan Wallen’s fourth album featuring the #1 singles “Lies, Lies, Lies”, “Love Somebody”, and the latest hit “I’m The Problem”.</p>
+<p>Limited to 4 per customer</p>
+<p>Ships within: 5 business days<br></p>
+<p><meta charset="utf-8"><span>Only available to customers in the United States.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>Collective_morganwallen</s:tag>
+    <s:tag>Complex_Collective</s:tag>
+    <s:tag>ITPmusic</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>music-product</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>rush_launch</s:tag>
+    <s:tag>Shopify Collective</s:tag>
+    <s:tag>single-gated</s:tag>
+    <s:tag>Stationhead</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>USONLY</s:tag>
+    <s:tag>WALLEN-00006</s:tag>
+    <s:tag>WALLEN-00056</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9839110193466</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>00602475886396</s:sku>
+      <s:grams>1261</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9947601600826</id>
+    <published>2025-10-03T18:38:17-04:00</published>
+    <updated>2025-10-03T18:38:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/i-got-better-since-you-got-gone-tank"/>
+    <title>I GOT BETTER SINCE YOU GOT GONE TANK</title>
+    <s:type>Tank</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_AM_ECOM_SUMMER25_TANK.png?v=1751309202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Tank<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White ribbed tank featuring screen printed graphics on front</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>Tees</s:tag>
+    <s:tag>tourdiscount</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00022</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9947601600826</id>
+      <title>S</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>839541773</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9947601600826</id>
+      <title>M</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>839541774</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9947601600826</id>
+      <title>L</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>839541775</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9947601600826</id>
+      <title>XL</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>839541776</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9901564264762</id>
+    <published>2025-10-03T18:37:03-04:00</published>
+    <updated>2025-10-03T18:37:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/the-problem-necklace"/>
+    <title>The Problem Necklace</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_ECOM_MG_ALBUMRELEASENECKLACE_1.png?v=1746719792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18" sterling silver "The Problem" necklace</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>ITPMerch</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>tourdiscount</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00014</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901564264762</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>839541678</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9901563806010</id>
+    <published>2025-10-03T18:37:02-04:00</published>
+    <updated>2025-10-03T18:37:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/1-800-problem-t-shirt"/>
+    <title>1-800-PROBLEM T-Shirt</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_ECOM_MG_ALBUMRELEASETEE-1_1.png?v=1746719683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ivory t-shirt featuring screen printed graphics on front and sleeve</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>Apparel</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>ITPMerch</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>Tees</s:tag>
+    <s:tag>tourdiscount</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00014</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:tag>winter-sale</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901563806010</id>
+      <title>S</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>839541663</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901563806010</id>
+      <title>M</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>839541664</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901563806010</id>
+      <title>L</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>839541665</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901563806010</id>
+      <title>XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>839541666</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901563806010</id>
+      <title>2XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>839541667</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9901562364218</id>
+    <published>2025-10-03T18:37:02-04:00</published>
+    <updated>2025-10-03T18:37:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/just-in-case-tank"/>
+    <title>Just In Case Tank</title>
+    <s:type>Women&apos;s Tank</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_ECOM_MG_ALBUMRELEASETANK-FRONT.png?v=1746719320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Women&#39;s Tank<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hazy pink tank featuring screen printed graphics on front and back</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>Apparel</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>ITPMerch</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>springbreak</s:tag>
+    <s:tag>Tees</s:tag>
+    <s:tag>tourdiscount</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00014</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:tag>winter-sale</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901562364218</id>
+      <title>S</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>839541673</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901562364218</id>
+      <title>M</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>839541674</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901562364218</id>
+      <title>L</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>839541675</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901562364218</id>
+      <title>XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>839541676</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9901561020730</id>
+    <published>2025-10-03T18:37:01-04:00</published>
+    <updated>2025-10-03T18:37:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/just-in-case-dad-hat"/>
+    <title>Just In Case Dad Hat</title>
+    <s:type>Dad Hat</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_ECOM_MG_ALBUMRELEASEHAT-FRONT.png?v=1746719049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Dad Hat<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dad hat featuring embroidered graphics on front and back</p>
+<p><meta charset="utf-8"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>ITPMerch</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>springbreak</s:tag>
+    <s:tag>tourdiscount</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00014</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:tag>winter-sale</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901561020730</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>839541679</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9901558759738</id>
+    <published>2025-10-03T18:37:00-04:00</published>
+    <updated>2025-10-03T18:37:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/im-a-little-crazy-hoodie"/>
+    <title>I&apos;m A Little Crazy Hoodie</title>
+    <s:type>Hoodie (pullover)</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_ECOM_RP_ALBUMRELEASEHOODIE-FRONT.png?v=1746718638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Hoodie (pullover)<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tan hoodie featuring screen printed graphics on front and back</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>Apparel</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>Hoodie</s:tag>
+    <s:tag>ITPMerch</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>sweatshirt</s:tag>
+    <s:tag>tourdiscount</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00014</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901558759738</id>
+      <title>S</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>839541683</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901558759738</id>
+      <title>M</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>839541684</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901558759738</id>
+      <title>L</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>839541685</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901558759738</id>
+      <title>XL</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>839541686</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901558759738</id>
+      <title>2XL</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>839541687</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9901546471738</id>
+    <published>2025-10-03T18:36:58-04:00</published>
+    <updated>2025-10-03T18:36:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/coyote-in-a-field-of-wolves-t-shirt"/>
+    <title>Coyote In A Field of Wolves T-Shirt</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_ECOM_TL_COYOTE-TEE.png?v=1746717793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Garment dyed t-shirt featuring screen printed graphics on front</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>Apparel</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>ITPMerch</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>Tees</s:tag>
+    <s:tag>tourdiscount</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00014</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:tag>winter-sale</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901546471738</id>
+      <title>S</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>839541703</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901546471738</id>
+      <title>M</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>839541704</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901546471738</id>
+      <title>L</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>839541705</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901546471738</id>
+      <title>XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>839541706</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901546471738</id>
+      <title>2XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>839541707</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9839110095162</id>
+    <published>2025-03-21T00:00:06-04:00</published>
+    <updated>2025-03-21T00:00:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/limited-edition-exclusive-i-m-the-problem-bone-white-3lp"/>
+    <title>Limited Edition Exclusive I’m The Problem Bone White 3LP</title>
+    <s:type>3LP</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/Limited_Edition_Exclusive_I_m_The_Problem_Bone_White_3LP.png?v=1742493567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>3LP<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Morgan Wallen’s fourth album featuring the #1 singles “Lies, Lies, Lies”, “Love Somebody”, and the latest hit “I’m The Problem”.</p>
+<p>Tracklist:</p>
+<p class="MsoNormal"><b><span>Disc 1 </span></b></p>
+<p class="MsoNormal"><b><span>Side A</span></b></p>
+<ol start="1" type="1">
+<li class="MsoListParagraph"><span>I'm The Problem</span></li>
+<li class="MsoListParagraph"><span>I Got Better</span></li>
+<li class="MsoListParagraph"><span>Superman</span></li>
+<li class="MsoListParagraph"><span>What I Want (feat. Tate McRae)</span></li>
+<li class="MsoListParagraph"><span>Just In Case</span></li>
+<li class="MsoListParagraph"><span>Interlude</span></li>
+<li class="MsoListParagraph"><span>Falling Apart</span></li>
+</ol>
+<p class="MsoNormal"><b><span>Disc 1</span></b></p>
+<p class="MsoNormal"><b><span>Side B</span></b></p>
+<ol start="1" type="1">
+<li class="MsoListParagraph"><span>Skoal, Chevy, and Browning</span></li>
+<li class="MsoListParagraph"><span>Eyes Are Closed</span></li>
+<li class="MsoListParagraph"><span>Kick Myself</span></li>
+<li class="MsoListParagraph"><span>20 Cigarettes</span></li>
+<li class="MsoListParagraph"><span>TN</span></li>
+<li class="MsoListParagraph"><span>Missing</span></li>
+</ol>
+<p class="MsoNormal"><b><span>Disc 2</span></b></p>
+<p class="MsoNormal"><b><span>Side C</span></b></p>
+<ol start="1" type="1">
+<li class="MsoListParagraph"><span>Where'd That Girl Go</span></li>
+<li class="MsoListParagraph"><span>Genesis</span></li>
+<li class="MsoListParagraph"><span>Revelation</span></li>
+<li class="MsoListParagraph"><span>Number 3 and Number 7 (feat. Eric Church)</span></li>
+<li class="MsoListParagraph"><span>Kiss Her In Front Of You</span></li>
+<li class="MsoListParagraph"><span>If You Were Mine</span></li>
+</ol>
+<p class="MsoNormal"><b><span>Disc 2</span></b></p>
+<p class="MsoNormal"><b><span>Side D</span></b></p>
+<ol start="1" type="1">
+<li class="MsoListParagraph"><span>Don't We</span></li>
+<li class="MsoListParagraph"><span>Come Back As A Redneck (feat. HARDY)</span></li>
+<li class="MsoListParagraph"><span>Love Somebody</span></li>
+<li class="MsoListParagraph"><span>Dark Til Daylight</span></li>
+<li class="MsoListParagraph"><span>The Dealer (feat. ERNEST)</span></li>
+<li class="MsoListParagraph"><span>Leavin's The Least I Could Do</span></li>
+</ol>
+<p class="MsoNormal"><b><span>Disc 3</span></b></p>
+<p class="MsoNormal"><b><span>Side E</span></b></p>
+<ol start="1" type="1">
+<li class="MsoListParagraph"><span>Jack and Jill</span></li>
+<li class="MsoListParagraph"><span>I Ain't Comin' Back (feat. Post Malone)</span></li>
+<li class="MsoListParagraph"><span>Nothin' Left</span></li>
+<li class="MsoListParagraph"><span>Drinking Til It Does</span></li>
+<li class="MsoListParagraph"><span>Smile</span></li>
+<li class="MsoListParagraph"><span>Working Man's Song</span></li>
+</ol>
+<p class="MsoNormal"><b><span>Disc 3</span></b></p>
+<p class="MsoNormal"><b><span>Side F</span></b><span> </span></p>
+<ol start="1" type="1">
+<li class="MsoListParagraph"><span>Whiskey In Reverse</span></li>
+<li class="MsoListParagraph"><span>Crazy Eyes</span></li>
+<li class="MsoListParagraph"><span>LA Night</span></li>
+<li class="MsoListParagraph"><span>Miami</span></li>
+<li class="MsoListParagraph"><span>Lies Lies Lies</span></li>
+<li class="MsoListParagraph"><span>I'm A Little Crazy</span></li>
+</ol>
+<p><br></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>ITPmusic</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>music-product</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>rush_launch</s:tag>
+    <s:tag>Stationhead</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>USONLY</s:tag>
+    <s:tag>WALLEN-00006</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9839110095162</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>00602475886037</s:sku>
+      <s:grams>1261</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9839110029626</id>
+    <published>2025-03-21T00:00:05-04:00</published>
+    <updated>2025-03-21T00:00:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/i-m-the-problem-album-cover-t-shirt"/>
+    <title>I’m The Problem Album Cover T-Shirt</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_ECOM_AM_ALBUMANNOUNCETEE2-BACK.png?v=1742493565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ivory garment dyed t-shirt featuring screen printed graphics on front and back.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>ITPMerch</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>rush_launch</s:tag>
+    <s:tag>Stationhead</s:tag>
+    <s:tag>Tees</s:tag>
+    <s:tag>tourdiscount</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00006</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:tag>winter-sale</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9839110029626</id>
+      <title>S</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>839541593</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9839110029626</id>
+      <title>M</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>839541594</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9839110029626</id>
+      <title>L</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>839541595</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9839110029626</id>
+      <title>XL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>839541596</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9839110029626</id>
+      <title>2XL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>839541597</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9839109964090</id>
+    <published>2025-03-21T00:00:04-04:00</published>
+    <updated>2025-03-21T00:00:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/i-m-the-problem-album-cover-hoodie"/>
+    <title>I’m The Problem Album Cover Hoodie</title>
+    <s:type>Hoodie (pullover)</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_ECOM_AM_ALBUMANNOUNCEHOODIE2-FRONT.png?v=1742493560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Hoodie (pullover)<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black garment dyed hoodie featuring screen printed graphics on front and back.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>ITPMerch</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>rush_launch</s:tag>
+    <s:tag>Stationhead</s:tag>
+    <s:tag>sweatshirt</s:tag>
+    <s:tag>tourdiscount</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00006</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:tag>winter-sale</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9839109964090</id>
+      <title>S</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>839541603</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9839109964090</id>
+      <title>M</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>839541604</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9839109964090</id>
+      <title>L</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>839541605</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9839109964090</id>
+      <title>XL</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>839541606</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9839109964090</id>
+      <title>2XL</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>839541607</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9433886523706</id>
+    <published>2024-07-05T09:00:01-04:00</published>
+    <updated>2024-07-05T09:00:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/lies-lies-lies-t-shirt"/>
+    <title>Lies Lies Lies T-Shirt</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/liesteefront.png?v=1719958678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White t-shirt with "Morgan Wallen" on the front left chest, and the back has the lyrics "Won't hate myself when the mornin' comes", "Lies, Lies, Lies", "Heartbreak Club", " Available 24/7 - Fools Welcome - Bourbon Provided", "1993 Downhill Dive Drive"* and "Tel: 1-800-90-PROOF"*. </p>
+<p>*Address and Phone Number are for design concepts only.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>Apparel</s:tag>
+    <s:tag>Bandsintown Promo</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>Collective_morganwallen</s:tag>
+    <s:tag>Complex_Collective</s:tag>
+    <s:tag>CYBERWEEK2024</s:tag>
+    <s:tag>mdwsale</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>MORGAN-33</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>post renovations</s:tag>
+    <s:tag>pre-order</s:tag>
+    <s:tag>REPU-205</s:tag>
+    <s:tag>sale applicable</s:tag>
+    <s:tag>Shopify Collective</s:tag>
+    <s:tag>Tees</s:tag>
+    <s:tag>tourdiscount</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9433886523706</id>
+      <title>S</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>839541353</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9433886523706</id>
+      <title>M</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>839541354</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9433886523706</id>
+      <title>L</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>839541355</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9433886523706</id>
+      <title>XL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>839541356</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9433886523706</id>
+      <title>2XL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>839541357</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9433886523706</id>
+      <title>3XL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>839541358</s:sku>
+      <s:grams>290</s:grams>
+    </s:variant>
+  </entry>
+</feed>

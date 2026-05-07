@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shop.morganwallen.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shop.morganwallen.com/collections/vinyl.atom"/>
+  <title>Morgan Wallen Official Store</title>
+  <updated>2026-01-08T13:00:10-05:00</updated>
+  <author>
+    <name>Morgan Wallen Official Store</name>
+  </author>
+  <entry>
+    <id>https://shop.morganwallen.com/products/10127952412986</id>
+    <published>2026-01-08T13:00:10-05:00</published>
+    <updated>2026-01-08T13:00:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/dangerous-the-double-album-milky-clear-3lp"/>
+    <title>Dangerous: The Double Album Milky Clear 3Lp</title>
+    <s:type>3LP</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/imgi_4_MorganWallen_Dangerous_LPMockup_2_copy_1.png?v=1767634874"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>3LP<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tracklist:</p>
+<p>Side A:</p>
+<p>1. Sand In My Boots<br>2. Wasted On You<br>3. Somebody's Problem<br>4. More Surprised Than Me<br>5. 865<br>6. Warning</p>
+<p>Side B:</p>
+<p>1. Neon Eyes<br>2. Outlaw<br>3. Whiskey'd My Way<br>4. Wonderin' Bout The Wind<br>5. Your Bartender</p>
+<p>Side C:</p>
+<p>1. Only Thing That's Gone<br>2. Cover Me Up<br>3. 7 Summers<br>4. More Than My Hometown</p>
+<p>Side D:</p>
+<p>1. Still Goin Down<br>2. Rednecks, Red Letters, Red Dirt<br>3. Dangerous<br>4. Beer Don't<br>5. Blame It On Me<br>6. Somethin' Country</p>
+<p>Side E:</p>
+<p>1. This Bar<br>2. Country A$$ Shit<br>3. Whatcha Think Of Country Now<br>4. Me On Whiskey<br>5. Need A Boat</p>
+<p>Side F:</p>
+<p>1. Silverado For Sale<br>2. Heartless [Wallen Album Mix]<br>3. Livin' The Dream<br>4. Quittin' Time<br>5. This Side Of A Dust Cloud<br>6. Bandaid On A Bullet Hole</p>
+<p><meta charset="utf-8">Please note that each vinyl is unique, and the colors may appear slightly different from the image displayed.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>music-product</s:tag>
+    <s:tag>WALLEN-00040</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10127952412986</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>00602435364582</s:sku>
+      <s:grams>630</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9901694452026</id>
+    <published>2025-10-03T18:44:31-04:00</published>
+    <updated>2025-10-03T18:44:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/sand-in-my-boots-festival-exclusive-coke-bottle-clear-vinyl"/>
+    <title>Sand In My Boots Festival Exclusive Coke Bottle Clear Vinyl</title>
+    <s:type>3LP</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/SIMB.png?v=1746758147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>3LP<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Morgan Wallen’s fourth album featuring the #1 singles “Lies, Lies, Lies”, “Love Somebody”, and the latest hit “I’m The Problem”.</p>
+<p>Please note that each vinyl is unique, and the colors may appear slightly different from the image displayed.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>ITPmusic</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>music-product</s:tag>
+    <s:tag>rush_launch</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>USONLY</s:tag>
+    <s:tag>WALLEN-00015</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901694452026</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>00602475886402</s:sku>
+      <s:grams>1261</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9839110193466</id>
+    <published>2025-10-03T18:42:31-04:00</published>
+    <updated>2025-10-03T18:42:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/im-the-problem-black-3lp"/>
+    <title>I&apos;m The Problem Black 3LP</title>
+    <s:type>3LP</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/vinyl_itpblack3lp_2048x2048_12e78356-2fc5-4d1e-9ef3-d464cf5995f0.png?v=1775844384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>3LP<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Morgan Wallen’s fourth album featuring the #1 singles “Lies, Lies, Lies”, “Love Somebody”, and the latest hit “I’m The Problem”.</p>
+<p>Limited to 4 per customer</p>
+<p>Ships within: 5 business days<br></p>
+<p><meta charset="utf-8"><span>Only available to customers in the United States.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>Collective_morganwallen</s:tag>
+    <s:tag>Complex_Collective</s:tag>
+    <s:tag>ITPmusic</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>music-product</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>rush_launch</s:tag>
+    <s:tag>Shopify Collective</s:tag>
+    <s:tag>single-gated</s:tag>
+    <s:tag>Stationhead</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>USONLY</s:tag>
+    <s:tag>WALLEN-00006</s:tag>
+    <s:tag>WALLEN-00056</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9839110193466</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>00602475886396</s:sku>
+      <s:grams>1261</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9839110095162</id>
+    <published>2025-03-21T00:00:06-04:00</published>
+    <updated>2025-03-21T00:00:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/limited-edition-exclusive-i-m-the-problem-bone-white-3lp"/>
+    <title>Limited Edition Exclusive I’m The Problem Bone White 3LP</title>
+    <s:type>3LP</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/Limited_Edition_Exclusive_I_m_The_Problem_Bone_White_3LP.png?v=1742493567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>3LP<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Morgan Wallen’s fourth album featuring the #1 singles “Lies, Lies, Lies”, “Love Somebody”, and the latest hit “I’m The Problem”.</p>
+<p>Tracklist:</p>
+<p class="MsoNormal"><b><span>Disc 1 </span></b></p>
+<p class="MsoNormal"><b><span>Side A</span></b></p>
+<ol start="1" type="1">
+<li class="MsoListParagraph"><span>I'm The Problem</span></li>
+<li class="MsoListParagraph"><span>I Got Better</span></li>
+<li class="MsoListParagraph"><span>Superman</span></li>
+<li class="MsoListParagraph"><span>What I Want (feat. Tate McRae)</span></li>
+<li class="MsoListParagraph"><span>Just In Case</span></li>
+<li class="MsoListParagraph"><span>Interlude</span></li>
+<li class="MsoListParagraph"><span>Falling Apart</span></li>
+</ol>
+<p class="MsoNormal"><b><span>Disc 1</span></b></p>
+<p class="MsoNormal"><b><span>Side B</span></b></p>
+<ol start="1" type="1">
+<li class="MsoListParagraph"><span>Skoal, Chevy, and Browning</span></li>
+<li class="MsoListParagraph"><span>Eyes Are Closed</span></li>
+<li class="MsoListParagraph"><span>Kick Myself</span></li>
+<li class="MsoListParagraph"><span>20 Cigarettes</span></li>
+<li class="MsoListParagraph"><span>TN</span></li>
+<li class="MsoListParagraph"><span>Missing</span></li>
+</ol>
+<p class="MsoNormal"><b><span>Disc 2</span></b></p>
+<p class="MsoNormal"><b><span>Side C</span></b></p>
+<ol start="1" type="1">
+<li class="MsoListParagraph"><span>Where'd That Girl Go</span></li>
+<li class="MsoListParagraph"><span>Genesis</span></li>
+<li class="MsoListParagraph"><span>Revelation</span></li>
+<li class="MsoListParagraph"><span>Number 3 and Number 7 (feat. Eric Church)</span></li>
+<li class="MsoListParagraph"><span>Kiss Her In Front Of You</span></li>
+<li class="MsoListParagraph"><span>If You Were Mine</span></li>
+</ol>
+<p class="MsoNormal"><b><span>Disc 2</span></b></p>
+<p class="MsoNormal"><b><span>Side D</span></b></p>
+<ol start="1" type="1">
+<li class="MsoListParagraph"><span>Don't We</span></li>
+<li class="MsoListParagraph"><span>Come Back As A Redneck (feat. HARDY)</span></li>
+<li class="MsoListParagraph"><span>Love Somebody</span></li>
+<li class="MsoListParagraph"><span>Dark Til Daylight</span></li>
+<li class="MsoListParagraph"><span>The Dealer (feat. ERNEST)</span></li>
+<li class="MsoListParagraph"><span>Leavin's The Least I Could Do</span></li>
+</ol>
+<p class="MsoNormal"><b><span>Disc 3</span></b></p>
+<p class="MsoNormal"><b><span>Side E</span></b></p>
+<ol start="1" type="1">
+<li class="MsoListParagraph"><span>Jack and Jill</span></li>
+<li class="MsoListParagraph"><span>I Ain't Comin' Back (feat. Post Malone)</span></li>
+<li class="MsoListParagraph"><span>Nothin' Left</span></li>
+<li class="MsoListParagraph"><span>Drinking Til It Does</span></li>
+<li class="MsoListParagraph"><span>Smile</span></li>
+<li class="MsoListParagraph"><span>Working Man's Song</span></li>
+</ol>
+<p class="MsoNormal"><b><span>Disc 3</span></b></p>
+<p class="MsoNormal"><b><span>Side F</span></b><span> </span></p>
+<ol start="1" type="1">
+<li class="MsoListParagraph"><span>Whiskey In Reverse</span></li>
+<li class="MsoListParagraph"><span>Crazy Eyes</span></li>
+<li class="MsoListParagraph"><span>LA Night</span></li>
+<li class="MsoListParagraph"><span>Miami</span></li>
+<li class="MsoListParagraph"><span>Lies Lies Lies</span></li>
+<li class="MsoListParagraph"><span>I'm A Little Crazy</span></li>
+</ol>
+<p><br></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>ITPmusic</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>music-product</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>rush_launch</s:tag>
+    <s:tag>Stationhead</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>USONLY</s:tag>
+    <s:tag>WALLEN-00006</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9839110095162</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>00602475886037</s:sku>
+      <s:grams>1261</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/8604240380218</id>
+    <published>2023-09-29T12:00:19-04:00</published>
+    <updated>2023-09-29T12:00:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/dangerous-the-double-album-3lp"/>
+    <title>Dangerous: The Double Album 3LP</title>
+    <s:type>2LP</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/mw-dangerous-3lp.png?v=1695843697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>2LP<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tracklist:</p>
+<p>DISC 1 <br>SIDE A<br>Sand in My Boots<br>Wasted on You<br>Somebody's Problem<br>More Surprised than Me<br>865<br>Warning<br><br>DISC 1<br>SIDE B<br>Neon Eyes<br>Outlaw<br>Whiskey'd My Way<br>Wonderin' 'bout the Wind<br>Your Bartender<br><br>DISC 2<br>SIDE A<br>Only Thing That's Gone<br>Cover Me Up<br>7 Summers<br>More Than My Hometown<br><br>DISC 2<br>SIDE B<br>Still Goin' Down<br>Rednecks, Red Letters, Red Dirt<br>Dangerous<br>Beer Don't<br>Blame It on Me<br>Somethin' Country<br><br>DISC 3<br>SIDE A<br>This Bar<br>Country A$$ Shit<br>Whatcha Think of Country Now<br>Me on Whiskey<br>Need a Boat<br><br>DISC 3 <br>SIDE B <br>Silverado for Sale<br>Heartless<br>Livin' the Dream<br>Quittin' Time</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#.line-limit</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>Collective_morganwallen</s:tag>
+    <s:tag>Complex_Collective</s:tag>
+    <s:tag>MORGAN-17</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>music-product</s:tag>
+    <s:tag>RR-ADD</s:tag>
+    <s:tag>Shopify Collective</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/8604240380218</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>00602435344249</s:sku>
+      <s:grams>658</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/8209072324922</id>
+    <published>2023-08-11T19:49:31-04:00</published>
+    <updated>2023-08-11T19:49:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/one-thing-at-a-time-orange-webstore-exclusive-3lp"/>
+    <title>One Thing At A Time Orange Webstore Exclusive 3LP</title>
+    <s:type>3LP</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/products/004-WALLEN-2023-LPAnimation-PDP-1000x1000-v2.gif?v=1679669622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>3LP<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tracklist:</p>
+<p>DISC 1 <br data-mce-fragment="1">SIDE A<br data-mce-fragment="1">1. Born With A Beer In My Hand<br data-mce-fragment="1">2. Last Night<br data-mce-fragment="1">3. Everything I Love<br data-mce-fragment="1">4. Man Made A Bar (feat. Eric Church)<br data-mce-fragment="1">5. Devil Don’t Know<br data-mce-fragment="1">6. One Thing At A Time<br data-mce-fragment="1"><br data-mce-fragment="1">DISC 1<br data-mce-fragment="1">SIDE B<br data-mce-fragment="1">1. ’98 Braves<br data-mce-fragment="1">2. Ain’t That Some<br data-mce-fragment="1">3. I Wrote The Book<br data-mce-fragment="1">4. Tennessee Numbers<br data-mce-fragment="1">5. Hope That’s True<br data-mce-fragment="1">6. Whiskey Friends<br data-mce-fragment="1"><br data-mce-fragment="1">DISC 2<br data-mce-fragment="1">SIDE A<br data-mce-fragment="1">1. Sunrise<br data-mce-fragment="1">2. Keith Whitley<br data-mce-fragment="1">3. In The Bible (feat. HARDY)<br data-mce-fragment="1">4. You Proof<br data-mce-fragment="1">5. Thought You Should Know<br data-mce-fragment="1">6. F150-50<br data-mce-fragment="1"><br data-mce-fragment="1">DISC 2<br data-mce-fragment="1">SIDE B<br data-mce-fragment="1">1. Neon Star (Country Boy Lullaby)<br data-mce-fragment="1">2. I Deserve A Drink<br data-mce-fragment="1">3. Wine Into Water<br data-mce-fragment="1">4. Me + All Your Reasons<br data-mce-fragment="1">5. Tennessee Fan<br data-mce-fragment="1">6. Money On Me<br data-mce-fragment="1"><br data-mce-fragment="1">DISC 3<br data-mce-fragment="1">SIDE A<br data-mce-fragment="1">1. Thinkin’ Bout Me<br data-mce-fragment="1">2. Single Than She Was<br data-mce-fragment="1">3. Days That End In Why<br data-mce-fragment="1">4. Last Drive Down Main<br data-mce-fragment="1">5. Me To Me<br data-mce-fragment="1">6. Don’t Think Jesus<br data-mce-fragment="1"><br data-mce-fragment="1">DISC 3<br data-mce-fragment="1">SIDE B<br data-mce-fragment="1">1. 180 (Lifestyle)<br data-mce-fragment="1">2. Had It<br data-mce-fragment="1">3. Cowgirls (feat. ERNEST)<br data-mce-fragment="1">4. Good Girl Gone Missin’<br data-mce-fragment="1">5. Outlook<br data-mce-fragment="1">6. Dying Man<br data-mce-fragment="1"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#.line-limit</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>Collective_morganwallen</s:tag>
+    <s:tag>Complex_Collective</s:tag>
+    <s:tag>MORGAN-3</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>music-product</s:tag>
+    <s:tag>OTAATmusic</s:tag>
+    <s:tag>Shopify Collective</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/8209072324922</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>00602455190420</s:sku>
+      <s:grams>1261</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/8244225114426</id>
+    <published>2023-04-17T23:59:19-04:00</published>
+    <updated>2023-04-17T23:59:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/one-thing-at-a-time-bone-3lp"/>
+    <title>One Thing At A Time Bone 3LP</title>
+    <s:type>3LP</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/004-WALLEN-2023-LPAnimation-PDP-bone.gif?v=1698678281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>3LP<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tracklist:</p>
+<p>DISC 1 <br data-mce-fragment="1">SIDE A<br data-mce-fragment="1">1. Born With A Beer In My Hand<br data-mce-fragment="1">2. Last Night<br data-mce-fragment="1">3. Everything I Love<br data-mce-fragment="1">4. Man Made A Bar (feat. Eric Church)<br data-mce-fragment="1">5. Devil Don’t Know<br data-mce-fragment="1">6. One Thing At A Time<br data-mce-fragment="1"><br data-mce-fragment="1">DISC 1<br data-mce-fragment="1">SIDE B<br data-mce-fragment="1">1. ’98 Braves<br data-mce-fragment="1">2. Ain’t That Some<br data-mce-fragment="1">3. I Wrote The Book<br data-mce-fragment="1">4. Tennessee Numbers<br data-mce-fragment="1">5. Hope That’s True<br data-mce-fragment="1">6. Whiskey Friends<br data-mce-fragment="1"><br data-mce-fragment="1">DISC 2<br data-mce-fragment="1">SIDE A<br data-mce-fragment="1">1. Sunrise<br data-mce-fragment="1">2. Keith Whitley<br data-mce-fragment="1">3. In The Bible (feat. HARDY)<br data-mce-fragment="1">4. You Proof<br data-mce-fragment="1">5. Thought You Should Know<br data-mce-fragment="1">6. F150-50<br data-mce-fragment="1"><br data-mce-fragment="1">DISC 2<br data-mce-fragment="1">SIDE B<br data-mce-fragment="1">1. Neon Star (Country Boy Lullaby)<br data-mce-fragment="1">2. I Deserve A Drink<br data-mce-fragment="1">3. Wine Into Water<br data-mce-fragment="1">4. Me + All Your Reasons<br data-mce-fragment="1">5. Tennessee Fan<br data-mce-fragment="1">6. Money On Me<br data-mce-fragment="1"><br data-mce-fragment="1">DISC 3<br data-mce-fragment="1">SIDE A<br data-mce-fragment="1">1. Thinkin’ Bout Me<br data-mce-fragment="1">2. Single Than She Was<br data-mce-fragment="1">3. Days That End In Why<br data-mce-fragment="1">4. Last Drive Down Main<br data-mce-fragment="1">5. Me To Me<br data-mce-fragment="1">6. Don’t Think Jesus<br data-mce-fragment="1"><br data-mce-fragment="1">DISC 3<br data-mce-fragment="1">SIDE B<br data-mce-fragment="1">1. 180 (Lifestyle)<br data-mce-fragment="1">2. Had It<br data-mce-fragment="1">3. Cowgirls (feat. ERNEST)<br data-mce-fragment="1">4. Good Girl Gone Missin’<br data-mce-fragment="1">5. Outlook<br data-mce-fragment="1">6. Dying Man<br data-mce-fragment="1"><br data-mce-fragment="1"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#.cart-limit</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>Collective_morganwallen</s:tag>
+    <s:tag>Complex_Collective</s:tag>
+    <s:tag>MORGAN-5</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>music-product</s:tag>
+    <s:tag>OTAATmusic</s:tag>
+    <s:tag>Shopify Collective</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/8244225114426</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>00602455190338</s:sku>
+      <s:grams>1261</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/8240611492154</id>
+    <published>2023-04-14T00:00:19-04:00</published>
+    <updated>2023-04-14T00:00:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/one-thing-at-a-time-evergreen-webstore-exclusive-3lp"/>
+    <title>One Thing At A Time Evergreen Webstore Exclusive 3LP</title>
+    <s:type>3LP</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/004-WALLEN-2023-LPAnimation-PDP-green.gif?v=1698678317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>3LP<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tracklist:</p>
+<p>DISC 1 <br data-mce-fragment="1">SIDE A<br data-mce-fragment="1">1. Born With A Beer In My Hand<br data-mce-fragment="1">2. Last Night<br data-mce-fragment="1">3. Everything I Love<br data-mce-fragment="1">4. Man Made A Bar (feat. Eric Church)<br data-mce-fragment="1">5. Devil Don’t Know<br data-mce-fragment="1">6. One Thing At A Time<br data-mce-fragment="1"><br data-mce-fragment="1">DISC 1<br data-mce-fragment="1">SIDE B<br data-mce-fragment="1">1. ’98 Braves<br data-mce-fragment="1">2. Ain’t That Some<br data-mce-fragment="1">3. I Wrote The Book<br data-mce-fragment="1">4. Tennessee Numbers<br data-mce-fragment="1">5. Hope That’s True<br data-mce-fragment="1">6. Whiskey Friends<br data-mce-fragment="1"><br data-mce-fragment="1">DISC 2<br data-mce-fragment="1">SIDE A<br data-mce-fragment="1">1. Sunrise<br data-mce-fragment="1">2. Keith Whitley<br data-mce-fragment="1">3. In The Bible (feat. HARDY)<br data-mce-fragment="1">4. You Proof<br data-mce-fragment="1">5. Thought You Should Know<br data-mce-fragment="1">6. F150-50<br data-mce-fragment="1"><br data-mce-fragment="1">DISC 2<br data-mce-fragment="1">SIDE B<br data-mce-fragment="1">1. Neon Star (Country Boy Lullaby)<br data-mce-fragment="1">2. I Deserve A Drink<br data-mce-fragment="1">3. Wine Into Water<br data-mce-fragment="1">4. Me + All Your Reasons<br data-mce-fragment="1">5. Tennessee Fan<br data-mce-fragment="1">6. Money On Me<br data-mce-fragment="1"><br data-mce-fragment="1">DISC 3<br data-mce-fragment="1">SIDE A<br data-mce-fragment="1">1. Thinkin’ Bout Me<br data-mce-fragment="1">2. Single Than She Was<br data-mce-fragment="1">3. Days That End In Why<br data-mce-fragment="1">4. Last Drive Down Main<br data-mce-fragment="1">5. Me To Me<br data-mce-fragment="1">6. Don’t Think Jesus<br data-mce-fragment="1"><br data-mce-fragment="1">DISC 3<br data-mce-fragment="1">SIDE B<br data-mce-fragment="1">1. 180 (Lifestyle)<br data-mce-fragment="1">2. Had It<br data-mce-fragment="1">3. Cowgirls (feat. ERNEST)<br data-mce-fragment="1">4. Good Girl Gone Missin’<br data-mce-fragment="1">5. Outlook<br data-mce-fragment="1">6. Dying Man<br data-mce-fragment="1"><br data-mce-fragment="1"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#.cart-limit</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>Collective_morganwallen</s:tag>
+    <s:tag>Complex_Collective</s:tag>
+    <s:tag>MORGAN-4</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>music-product</s:tag>
+    <s:tag>OTAATmusic</s:tag>
+    <s:tag>Shopify Collective</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/8240611492154</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>00602455190406</s:sku>
+      <s:grams>1261</s:grams>
+    </s:variant>
+  </entry>
+</feed>

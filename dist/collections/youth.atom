@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shop.morganwallen.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shop.morganwallen.com/collections/youth.atom"/>
+  <title>Morgan Wallen Official Store</title>
+  <updated>2026-04-29T12:00:40-04:00</updated>
+  <author>
+    <name>Morgan Wallen Official Store</name>
+  </author>
+  <entry>
+    <id>https://shop.morganwallen.com/products/10264929993018</id>
+    <published>2026-04-29T12:00:40-04:00</published>
+    <updated>2026-04-29T12:00:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/still-the-problem-tour-kids-t-shirt"/>
+    <title>Still The Problem Tour Kids T-Shirt</title>
+    <s:type>Kids T-Shirt</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/tee_kids_back_2048x2048_3672abcf-d499-4a59-9a79-9833e30eed01.png?v=1776452575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Kids T-Shirt<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2026 Still The Problem Tour black kids t-shirt featuring screen printed graphics on front and back</p>
+<p><meta charset="utf-8"><meta charset="utf-8">Ships within: 5 business days<br></p>
+<p><span><meta charset="utf-8">Only available to customers in the United States.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>single-gated</s:tag>
+    <s:tag>STH</s:tag>
+    <s:tag>Tees</s:tag>
+    <s:tag>USONLY</s:tag>
+    <s:tag>WALLEN-00056</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10264929993018</id>
+      <title>Youth S</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>939540813</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10264929993018</id>
+      <title>Youth M</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>939540814</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10264929993018</id>
+      <title>Youth L</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>939540815</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/10057811788090</id>
+    <published>2025-11-13T13:00:13-05:00</published>
+    <updated>2025-11-13T13:00:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/racing-keys-youth-long-sleeve"/>
+    <title>Racing Keys Youth Long Sleeve</title>
+    <s:type>Kids T-Shirt</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_ECOM_HOLIDAY25-KIDSLS-FRONT.png?v=1761928408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Kids T-Shirt<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Heather grey youth long sleeve t-shirt featuring screen printed graphics on front and back</p>
+<p><meta charset="utf-8"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>Apparel</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>Tees</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00038</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10057811788090</id>
+      <title>YS</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>839541953</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10057811788090</id>
+      <title>YM</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>839541954</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10057811788090</id>
+      <title>YL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>839541955</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/10040335991098</id>
+    <published>2025-10-15T12:00:37-04:00</published>
+    <updated>2025-10-15T12:00:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/i-m-the-problem-tour-youth-t-shirt"/>
+    <title>I’m The Problem Tour Youth T-Shirt</title>
+    <s:type>Kids T-Shirt</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_TOUR_TL_ITP-KIDS-TEE_FRONT.png?v=1760471436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Kids T-Shirt<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black youth t-shirt featuring 2025 tour graphics screen printed on front and back</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>Tees</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00029</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10040335991098</id>
+      <title>Youth S</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>939540693</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10040335991098</id>
+      <title>Youth M</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>939540694</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10040335991098</id>
+      <title>Youth L</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>939540695</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9901555679546</id>
+    <published>2025-10-03T18:36:59-04:00</published>
+    <updated>2025-10-03T18:36:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/wallen-superman-kids-t-shirt"/>
+    <title>Wallen Superman Kids T-Shirt</title>
+    <s:type>Kids T-Shirt</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_ECOM_AM_ALBUMRELEASEKIDSTEE2.png?v=1746718418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Kids T-Shirt<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White kids t-shirt featuring screen printed graphics on front</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>Apparel</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>ITPMerch</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>Tees</s:tag>
+    <s:tag>tourdiscount</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00014</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:tag>winter-sale</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901555679546</id>
+      <title>YS</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>839541713</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901555679546</id>
+      <title>YM</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>839541714</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901555679546</id>
+      <title>YL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>839541715</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901555679546</id>
+      <title>YXL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>839541716</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

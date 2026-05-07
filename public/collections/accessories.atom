@@ -1,0 +1,1175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shop.morganwallen.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shop.morganwallen.com/collections/accessories.atom"/>
+  <title>Morgan Wallen Official Store</title>
+  <updated>2025-12-01T13:40:17-05:00</updated>
+  <author>
+    <name>Morgan Wallen Official Store</name>
+  </author>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9739096359226</id>
+    <published>2025-12-01T13:40:17-05:00</published>
+    <updated>2025-12-01T13:40:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/wallens-tree-farm-camo-hat"/>
+    <title>Wallen&apos;s Tree Farm Camo Hat</title>
+    <s:type>Snapback Hat</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/mwwrapped.png?v=1733264963"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Snapback Hat<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Camo trucker hat featuring an embroidered patch sewn onto the front.<meta charset="utf-8"><meta charset="utf-8"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>fansfirstplus</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>MORGAN-39</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>springbreak</s:tag>
+    <s:tag>underrenovations</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9739096359226</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>839541569</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/10046897127738</id>
+    <published>2025-11-17T16:37:49-05:00</published>
+    <updated>2025-11-17T16:37:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/morgan-wallen-x-ut-camo-hat"/>
+    <title>Morgan Wallen x UT Camo Hat</title>
+    <s:type>Dad Hat</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/morgancamohat.png?v=1760627868"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Dad Hat<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Camo hat featuring embroidered graphics on front and side</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00035</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10046897127738</id>
+      <title>Default Title</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>839541918</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/10046895882554</id>
+    <published>2025-11-17T16:37:48-05:00</published>
+    <updated>2025-11-17T16:37:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/morgan-wallen-x-ut-orange-t-hat"/>
+    <title>Morgan Wallen x UT Orange T Hat</title>
+    <s:type>Dad Hat</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/Morgan_Orange_and_White_Hat.png?v=1760627885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Dad Hat<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White and orange hat featuring embroidered graphics on front and side</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00035</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10046895882554</id>
+      <title>Default Title</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>839541920</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/10046894965050</id>
+    <published>2025-11-17T16:37:48-05:00</published>
+    <updated>2025-11-17T16:37:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/morgan-wallen-x-ut-tan-vols-hat"/>
+    <title>Morgan Wallen x UT Tan Vols Hat</title>
+    <s:type>Dad Hat</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/Morgan_Tan_Hat.png?v=1760627910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Dad Hat<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tan hat featuring embroidered patch on front and embroidered graphics on side</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00035</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10046894965050</id>
+      <title>Default Title</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>839541919</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/10057962914106</id>
+    <published>2025-11-13T13:00:17-05:00</published>
+    <updated>2025-11-13T13:00:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/tracklist-blanket"/>
+    <title>Tracklist Blanket</title>
+    <s:type>Other</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_ECOM_HOLIDAY25-BLANKET.png?v=1761929010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Woven blanket featuring tracklist graphics</p>
+<p>50"x60"</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00038</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10057962914106</id>
+      <title>Default Title</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>839541969</s:sku>
+      <s:grams>748</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/10057944138042</id>
+    <published>2025-11-13T13:00:16-05:00</published>
+    <updated>2025-11-13T13:00:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/wallen-hunting-hat"/>
+    <title>Wallen Hunting Hat</title>
+    <s:type>Dad Hat</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_ECOM_HOLIDAY25-EMB-HAT.png?v=1761928921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Dad Hat<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Natural and black two tone hat featuring embroidered graphics on front</p>
+<p><meta charset="utf-8"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>springbreak</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00038</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10057944138042</id>
+      <title>Default Title</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>839542008</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/10057939779898</id>
+    <published>2025-11-13T13:00:15-05:00</published>
+    <updated>2025-11-13T13:00:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/thank-yew-hat"/>
+    <title>Thank Yew Hat</title>
+    <s:type>Dad Hat</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_ECOM_HOLIDAY25-HAT-1.png?v=1761928857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Dad Hat<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Natural and blue two tone hat featuring embroidered graphics on front</p>
+<p><meta charset="utf-8"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>springbreak</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00038</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10057939779898</id>
+      <title>Default Title</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>839541968</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/10057894953274</id>
+    <published>2025-11-13T13:00:15-05:00</published>
+    <updated>2025-11-13T13:00:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/mw-lighter"/>
+    <title>MW Lighter</title>
+    <s:type>Other</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_ECOM_HOLIDAY25-ZIPPO.png?v=1761928721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Checkerboard lighter featuring MW graphics</p>
+<p>*Lighter fluid not included.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>springbreak</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00038</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10057894953274</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>839541970</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/10040336122170</id>
+    <published>2025-10-15T12:00:40-04:00</published>
+    <updated>2025-10-15T12:00:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/turkey-hat"/>
+    <title>Turkey Hat</title>
+    <s:type>Snapback Hat</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_TOUR_AM_TURKEY-HAT.png?v=1760470896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Snapback Hat<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Trucker hat featuring screen printed graphics on front</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00029</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10040336122170</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>939540504</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/10040336089402</id>
+    <published>2025-10-15T12:00:39-04:00</published>
+    <updated>2025-10-15T12:00:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/turkey-can-cooler"/>
+    <title>Turkey Can Cooler</title>
+    <s:type>Other</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_TOUR_AM_TURKEY-KOOZIE-BACK.png?v=1760472962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Can cooler featuring screen printed graphics on both sides</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>springbreak</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00029</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:tag>winter-sale</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10040336089402</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>939540507</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/10040336023866</id>
+    <published>2025-10-15T12:00:37-04:00</published>
+    <updated>2025-10-15T12:00:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/morgan-wallen-tan-hat"/>
+    <title>Morgan Wallen Tan Hat</title>
+    <s:type>Snapback Hat</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_TOUR_AM_BLOCK-LOGO-HAT.png?v=1760471332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Snapback Hat<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tan trucker hat featuring embroidered graphics on front</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>springbreak</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00029</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:tag>winter-sale</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10040336023866</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>939540505</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/10040335958330</id>
+    <published>2025-10-15T12:00:36-04:00</published>
+    <updated>2025-10-15T12:00:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/i-m-the-problem-tour-red-bandana"/>
+    <title>I’m The Problem Tour Red Bandana</title>
+    <s:type>Bandana</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_TOUR_TL_VINTAGE-BANDANA.png?v=1759786609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Bandana<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Red bandana featuring 2025 tour design</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>springbreak</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00029</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10040335958330</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>939540511</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/10040335925562</id>
+    <published>2025-10-15T12:00:35-04:00</published>
+    <updated>2025-10-15T12:00:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/i-m-the-problem-tour-poster"/>
+    <title>I’m The Problem Tour Poster</title>
+    <s:type>Lithograph</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_TOUR_BH_TOURPOSTER.png?v=1760471544"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Lithograph<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18" x 24" screen printed 2025 North American tour poster</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00029</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10040335925562</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>939540513</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/10040335892794</id>
+    <published>2025-10-15T12:00:34-04:00</published>
+    <updated>2025-10-15T12:00:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/i-m-the-problem-tour-pennant"/>
+    <title>I’m The Problem Tour Pennant</title>
+    <s:type>Other</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_TOUR_AM_PENNANT.png?v=1759954814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black 11.5" x 14.6” pennant featuring 2025 tour design</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>springbreak</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00029</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10040335892794</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>939540514</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/10040335794490</id>
+    <published>2025-10-15T12:00:31-04:00</published>
+    <updated>2025-10-15T12:00:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/i-m-the-problem-tour-flag"/>
+    <title>I’m The Problem Tour Flag</title>
+    <s:type>Other</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MW-Car-Neon_UPDATE_7.png?v=1759786607"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black 3'x5' flag featuring 2025 tour design</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>springbreak</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00029</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10040335794490</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>939540512</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/10040335761722</id>
+    <published>2025-10-15T12:00:31-04:00</published>
+    <updated>2025-10-15T12:00:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/i-m-the-problem-tour-admat-can-cooler"/>
+    <title>I’m The Problem Tour Admat Can Cooler</title>
+    <s:type>Other</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_TOUR_AM_ADMAT-KOOZIE.png?v=1759786606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Can cooler featuring 2025 tour screen printed graphics</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>springbreak</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00029</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10040335761722</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>939540510</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/10040335728954</id>
+    <published>2025-10-15T12:00:30-04:00</published>
+    <updated>2025-10-15T12:00:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/i-m-the-problem-tour-camo-can-cooler"/>
+    <title>I’m The Problem Tour Camo Can Cooler</title>
+    <s:type>Other</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_TOUR_AM_CAMO-KOOZIE-BACK.png?v=1760472047"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Can cooler featuring 2025 tour screen printed graphics</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>springbreak</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00029</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10040335728954</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>939540509</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/10040335696186</id>
+    <published>2025-10-15T12:00:29-04:00</published>
+    <updated>2025-10-15T12:00:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/i-m-the-problem-tour-bottle-opener"/>
+    <title>I’m The Problem Tour Bottle Opener</title>
+    <s:type>Other</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_TOUR_BH_BOTTLE-OPENER.png?v=1759786606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stainless steel bottle opener with engraved graphics</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>springbreak</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00029</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10040335696186</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>939540515</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/10040335663418</id>
+    <published>2025-10-15T12:00:28-04:00</published>
+    <updated>2025-10-15T12:00:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/i-m-the-problem-tour-black-can-cooler"/>
+    <title>I’m The Problem Tour Black Can Cooler</title>
+    <s:type>Other</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_TOUR_AM_BLACK-KOOZIE.png?v=1759954684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Can cooler featuring 2025 tour screen printed graphics</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>springbreak</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00029</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10040335663418</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>939540508</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9860993941818</id>
+    <published>2025-10-03T18:42:21-04:00</published>
+    <updated>2025-10-03T18:42:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/get-me-to-gods-country-hat-ii"/>
+    <title>Get Me To God&apos;s Country Hat II</title>
+    <s:type>Snapback Hat</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/II.png?v=1743542755"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Snapback Hat<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Navy 5 panel mesh trucker hat featuring embroidered graphics.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>rush_launch</s:tag>
+    <s:tag>tourdiscount</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00008</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9860993941818</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>839541620</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9930594287930</id>
+    <published>2025-10-03T18:41:24-04:00</published>
+    <updated>2025-10-03T18:41:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/stacked-logo-hat"/>
+    <title>Stacked Logo Hat</title>
+    <s:type>Snapback Hat</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_TOUR_AM_SIMB-MW-PATCH-HAT.png?v=1749743699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Snapback Hat<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black 5 panel hat featuring graphic on the front.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>springbreak</s:tag>
+    <s:tag>tourdiscount</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00019</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9930594287930</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>939540661</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9930593993018</id>
+    <published>2025-10-03T18:41:24-04:00</published>
+    <updated>2025-10-03T18:41:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/mw-fanny-pack"/>
+    <title>MW Fanny Pack</title>
+    <s:type>Fanny Pack</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_AM_SIMB-FANNY-PACK.png?v=1749743692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Fanny Pack<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Purple fanny pack featuring screen printed graphics on the side.</p>
+<p>6.5" x 9"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>tourdiscount</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00019</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9930593993018</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>939540668</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9947602649402</id>
+    <published>2025-10-03T18:38:22-04:00</published>
+    <updated>2025-10-03T18:38:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/mw-can-cooler"/>
+    <title>MW CAN COOLER</title>
+    <s:type>Other</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_AM_ECOM_SUMMER25_KOOZIE.png?v=1751309623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Can cooler featuring screen printed graphics on both sides</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>tourdiscount</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00022</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9947602649402</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>839541791</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9947602485562</id>
+    <published>2025-10-03T18:38:21-04:00</published>
+    <updated>2025-10-03T18:38:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/morgan-wallen-flag"/>
+    <title>MORGAN WALLEN FLAG</title>
+    <s:type>Other</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_AM_ECOM_SUMMER25_FLAG.png?v=1751309526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White flag featuring screen printed graphics</p>
+<p>Polyester </p>
+<p><span>3' x 5'</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>tourdiscount</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00022</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9947602485562</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>839541790</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9947602354490</id>
+    <published>2025-10-03T18:38:20-04:00</published>
+    <updated>2025-10-03T18:38:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/mw-map-hat"/>
+    <title>MW MAP HAT</title>
+    <s:type>Snapback Hat</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_AM_ECOM_SUMMER25_HAT-2.png?v=1751309481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Snapback Hat<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Trucker hat featuring embroidered graphics on front</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>tourdiscount</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00022</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9947602354490</id>
+      <title>Default Title</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>839541782</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+  </entry>
+</feed>

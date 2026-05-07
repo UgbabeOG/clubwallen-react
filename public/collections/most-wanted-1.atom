@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shop.morganwallen.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shop.morganwallen.com/collections/most-wanted-1.atom"/>
+  <title>Morgan Wallen Official Store</title>
+  <updated>2025-11-17T16:37:46-05:00</updated>
+  <author>
+    <name>Morgan Wallen Official Store</name>
+  </author>
+  <entry>
+    <id>https://shop.morganwallen.com/products/10046891721018</id>
+    <published>2025-11-17T16:37:46-05:00</published>
+    <updated>2025-11-17T16:37:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/morgan-wallen-x-ut-camo-hoodie"/>
+    <title>Morgan Wallen x UT Camo Hoodie</title>
+    <s:type>Hoodie (pullover)</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MW_T.VOLS_ECOM_25_HOODIE_CMO_MOCK.png?v=1760547171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Hoodie (pullover)<br>
+        <strong>Price: </strong>
+            125.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Camo hoodie featuring screen printed graphics on front</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>sweatshirt</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00035</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10046891721018</id>
+      <title>S</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>839541903</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10046891721018</id>
+      <title>M</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>839541904</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10046891721018</id>
+      <title>L</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>839541905</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10046891721018</id>
+      <title>XL</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>839541906</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10046891721018</id>
+      <title>2XL</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>839541907</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/10057939779898</id>
+    <published>2025-11-13T13:00:15-05:00</published>
+    <updated>2025-11-13T13:00:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/thank-yew-hat"/>
+    <title>Thank Yew Hat</title>
+    <s:type>Dad Hat</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_ECOM_HOLIDAY25-HAT-1.png?v=1761928857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Dad Hat<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Natural and blue two tone hat featuring embroidered graphics on front</p>
+<p><meta charset="utf-8"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>springbreak</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00038</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10057939779898</id>
+      <title>Default Title</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>839541968</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/10057854779706</id>
+    <published>2025-11-13T13:00:14-05:00</published>
+    <updated>2025-11-13T13:00:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/thank-yew-crewneck"/>
+    <title>Thank Yew Crewneck</title>
+    <s:type>Crewneck</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_ECOM_HOLIDAY25-CREW.png?v=1761928527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Crewneck<br>
+        <strong>Price: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Navy garment dyed crewneck featuring screen printed graphics on front</p>
+<p><meta charset="utf-8"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>Apparel</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>sweatshirt</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00038</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10057854779706</id>
+      <title>S</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>839541923</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10057854779706</id>
+      <title>M</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>839541924</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10057854779706</id>
+      <title>L</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>839541925</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10057854779706</id>
+      <title>XL</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>839541926</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10057854779706</id>
+      <title>2XL</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>839541927</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/10057800810810</id>
+    <published>2025-11-13T13:00:12-05:00</published>
+    <updated>2025-11-13T13:00:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/thank-yew-t-shirt"/>
+    <title>Thank Yew T-Shirt</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_ECOM_HOLIDAY25-BROWNTEE.png?v=1761928159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Espresso garment dyed t-shirt featuring screen printed graphics on front and sleeve</p>
+<p><meta charset="utf-8"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>Apparel</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>Tees</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00038</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10057800810810</id>
+      <title>S</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>839541933</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10057800810810</id>
+      <title>M</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>839541934</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10057800810810</id>
+      <title>L</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>839541935</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10057800810810</id>
+      <title>XL</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>839541936</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10057800810810</id>
+      <title>2XL</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>839541937</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/10055390167354</id>
+    <published>2025-10-30T09:01:05-04:00</published>
+    <updated>2025-10-30T09:01:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/still-the-problem-tour-t-shirt"/>
+    <title>Still The Problem Tour T-Shirt</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_26_TOUR_ADMATEE-FRONT.png?v=1761828406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Denim garment dyed t-shirt featuring screen printed graphics on front and back.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>Apparel</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>Tees</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00037</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10055390167354</id>
+      <title>S</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>839541973</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10055390167354</id>
+      <title>M</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>839541974</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10055390167354</id>
+      <title>L</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>839541975</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10055390167354</id>
+      <title>XL</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>839541976</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/10055390167354</id>
+      <title>2XL</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>839541977</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9901564264762</id>
+    <published>2025-10-03T18:37:03-04:00</published>
+    <updated>2025-10-03T18:37:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/the-problem-necklace"/>
+    <title>The Problem Necklace</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_ECOM_MG_ALBUMRELEASENECKLACE_1.png?v=1746719792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18" sterling silver "The Problem" necklace</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>ITPMerch</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>tourdiscount</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00014</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901564264762</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>839541678</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9901558759738</id>
+    <published>2025-10-03T18:37:00-04:00</published>
+    <updated>2025-10-03T18:37:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/im-a-little-crazy-hoodie"/>
+    <title>I&apos;m A Little Crazy Hoodie</title>
+    <s:type>Hoodie (pullover)</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_ECOM_RP_ALBUMRELEASEHOODIE-FRONT.png?v=1746718638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Hoodie (pullover)<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tan hoodie featuring screen printed graphics on front and back</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>Apparel</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>Hoodie</s:tag>
+    <s:tag>ITPMerch</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>sweatshirt</s:tag>
+    <s:tag>tourdiscount</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00014</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901558759738</id>
+      <title>S</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>839541683</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901558759738</id>
+      <title>M</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>839541684</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901558759738</id>
+      <title>L</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>839541685</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901558759738</id>
+      <title>XL</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>839541686</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901558759738</id>
+      <title>2XL</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>839541687</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9901546471738</id>
+    <published>2025-10-03T18:36:58-04:00</published>
+    <updated>2025-10-03T18:36:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/coyote-in-a-field-of-wolves-t-shirt"/>
+    <title>Coyote In A Field of Wolves T-Shirt</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_ECOM_TL_COYOTE-TEE.png?v=1746717793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Garment dyed t-shirt featuring screen printed graphics on front</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>Apparel</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>ITPMerch</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>Tees</s:tag>
+    <s:tag>tourdiscount</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00014</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:tag>winter-sale</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901546471738</id>
+      <title>S</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>839541703</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901546471738</id>
+      <title>M</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>839541704</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901546471738</id>
+      <title>L</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>839541705</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901546471738</id>
+      <title>XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>839541706</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9901546471738</id>
+      <title>2XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>839541707</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9839110029626</id>
+    <published>2025-03-21T00:00:05-04:00</published>
+    <updated>2025-03-21T00:00:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/i-m-the-problem-album-cover-t-shirt"/>
+    <title>I’m The Problem Album Cover T-Shirt</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_ECOM_AM_ALBUMANNOUNCETEE2-BACK.png?v=1742493565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ivory garment dyed t-shirt featuring screen printed graphics on front and back.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>ITPMerch</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>rush_launch</s:tag>
+    <s:tag>Stationhead</s:tag>
+    <s:tag>Tees</s:tag>
+    <s:tag>tourdiscount</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00006</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:tag>winter-sale</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9839110029626</id>
+      <title>S</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>839541593</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9839110029626</id>
+      <title>M</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>839541594</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9839110029626</id>
+      <title>L</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>839541595</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9839110029626</id>
+      <title>XL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>839541596</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9839110029626</id>
+      <title>2XL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>839541597</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9839109964090</id>
+    <published>2025-03-21T00:00:04-04:00</published>
+    <updated>2025-03-21T00:00:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/i-m-the-problem-album-cover-hoodie"/>
+    <title>I’m The Problem Album Cover Hoodie</title>
+    <s:type>Hoodie (pullover)</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/PRODUCT_MOWA_25_ECOM_AM_ALBUMANNOUNCEHOODIE2-FRONT.png?v=1742493560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Hoodie (pullover)<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black garment dyed hoodie featuring screen printed graphics on front and back.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>ITPMerch</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>rush_launch</s:tag>
+    <s:tag>Stationhead</s:tag>
+    <s:tag>sweatshirt</s:tag>
+    <s:tag>tourdiscount</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>WALLEN-00006</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:tag>winter-sale</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9839109964090</id>
+      <title>S</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>839541603</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9839109964090</id>
+      <title>M</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>839541604</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9839109964090</id>
+      <title>L</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>839541605</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9839109964090</id>
+      <title>XL</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>839541606</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9839109964090</id>
+      <title>2XL</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>839541607</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9729749156154</id>
+    <published>2024-11-15T11:00:05-05:00</published>
+    <updated>2024-11-15T11:00:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/long-live-cowgirls-gold-necklace"/>
+    <title>Long Live Cowgirls Gold Necklace</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/Necklace_05.png?v=1733767728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold necklace featuring "Long Live Cowgirls" and MW logo.</p>
+<p>Pendant 1.75"<br>Chain 18" <br>3" extender<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>Collective_morganwallen</s:tag>
+    <s:tag>Complex_Collective</s:tag>
+    <s:tag>mdwsale</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>MORGAN-37</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>post renovations</s:tag>
+    <s:tag>pre-order</s:tag>
+    <s:tag>Shopify Collective</s:tag>
+    <s:tag>tourdiscount</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9729749156154</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>839541409</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9708072927546</id>
+    <published>2024-10-24T11:59:21-04:00</published>
+    <updated>2024-10-24T11:59:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/silverado-for-sale-crewneck"/>
+    <title>Silverado For Sale Crewneck</title>
+    <s:type>Crewneck</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/SilveradoForSaleCrewneckFront.png?v=1729535054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Crewneck<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Graphite black heavy weight crewneck sweatshirt featuring screen printed graphics on front and back.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>Apparel</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>Collective_morganwallen</s:tag>
+    <s:tag>Complex_Collective</s:tag>
+    <s:tag>mdwsale</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>MORGAN-36</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>post renovations</s:tag>
+    <s:tag>pre-order</s:tag>
+    <s:tag>sale applicable</s:tag>
+    <s:tag>Shopify Collective</s:tag>
+    <s:tag>sweatshirt</s:tag>
+    <s:tag>tourdiscount</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:tag>winter-sale</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9708072927546</id>
+      <title>S</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>839541543</s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9708072927546</id>
+      <title>M</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>839541544</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9708072927546</id>
+      <title>L</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>839541545</s:sku>
+      <s:grams>599</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9708072927546</id>
+      <title>XL</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>839541546</s:sku>
+      <s:grams>662</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9708072927546</id>
+      <title>2XL</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>839541547</s:sku>
+      <s:grams>708</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9708072927546</id>
+      <title>3XL</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>839541548</s:sku>
+      <s:grams>757</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9433886523706</id>
+    <published>2024-07-05T09:00:01-04:00</published>
+    <updated>2024-07-05T09:00:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/lies-lies-lies-t-shirt"/>
+    <title>Lies Lies Lies T-Shirt</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/liesteefront.png?v=1719958678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White t-shirt with "Morgan Wallen" on the front left chest, and the back has the lyrics "Won't hate myself when the mornin' comes", "Lies, Lies, Lies", "Heartbreak Club", " Available 24/7 - Fools Welcome - Bourbon Provided", "1993 Downhill Dive Drive"* and "Tel: 1-800-90-PROOF"*. </p>
+<p>*Address and Phone Number are for design concepts only.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>Apparel</s:tag>
+    <s:tag>Bandsintown Promo</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>Collective_morganwallen</s:tag>
+    <s:tag>Complex_Collective</s:tag>
+    <s:tag>CYBERWEEK2024</s:tag>
+    <s:tag>mdwsale</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>MORGAN-33</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>post renovations</s:tag>
+    <s:tag>pre-order</s:tag>
+    <s:tag>REPU-205</s:tag>
+    <s:tag>sale applicable</s:tag>
+    <s:tag>Shopify Collective</s:tag>
+    <s:tag>Tees</s:tag>
+    <s:tag>tourdiscount</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9433886523706</id>
+      <title>S</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>839541353</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9433886523706</id>
+      <title>M</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>839541354</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9433886523706</id>
+      <title>L</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>839541355</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9433886523706</id>
+      <title>XL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>839541356</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9433886523706</id>
+      <title>2XL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>839541357</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9433886523706</id>
+      <title>3XL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>839541358</s:sku>
+      <s:grams>290</s:grams>
+    </s:variant>
+  </entry>
+</feed>

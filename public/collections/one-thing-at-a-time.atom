@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shop.morganwallen.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shop.morganwallen.com/collections/one-thing-at-a-time.atom"/>
+  <title>Morgan Wallen Official Store</title>
+  <updated>2024-11-15T11:00:05-05:00</updated>
+  <author>
+    <name>Morgan Wallen Official Store</name>
+  </author>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9729749156154</id>
+    <published>2024-11-15T11:00:05-05:00</published>
+    <updated>2024-11-15T11:00:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/long-live-cowgirls-gold-necklace"/>
+    <title>Long Live Cowgirls Gold Necklace</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/Necklace_05.png?v=1733767728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold necklace featuring "Long Live Cowgirls" and MW logo.</p>
+<p>Pendant 1.75"<br>Chain 18" <br>3" extender<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>Collective_morganwallen</s:tag>
+    <s:tag>Complex_Collective</s:tag>
+    <s:tag>mdwsale</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>MORGAN-37</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>post renovations</s:tag>
+    <s:tag>pre-order</s:tag>
+    <s:tag>Shopify Collective</s:tag>
+    <s:tag>tourdiscount</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9729749156154</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>839541409</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9729740702010</id>
+    <published>2024-11-15T11:00:04-05:00</published>
+    <updated>2024-11-15T11:00:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/one-thing-at-a-time-brown-sweatpants"/>
+    <title>One Thing At A Time Brown Sweatpants</title>
+    <s:type>Sweatpants</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/Brown-sweatpants_02.png?v=1733768004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Sweatpants<br>
+        <strong>Price: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brown garment dyed sweatpants featuring screen printed graphics on right leg. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>Apparel</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>Collective_morganwallen</s:tag>
+    <s:tag>Complex_Collective</s:tag>
+    <s:tag>mdwsale</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>MORGAN-37</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>post renovations</s:tag>
+    <s:tag>pre-order</s:tag>
+    <s:tag>Shopify Collective</s:tag>
+    <s:tag>tourdiscount</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:tag>winter-sale</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9729740702010</id>
+      <title>S</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>839541383</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9729740702010</id>
+      <title>M</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>839541384</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9729740702010</id>
+      <title>L</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>839541385</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9729740702010</id>
+      <title>XL</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>839541386</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9729740702010</id>
+      <title>2XL</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>839541387</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9729740702010</id>
+      <title>3XL</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>839541388</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9729717502266</id>
+    <published>2024-11-15T11:00:03-05:00</published>
+    <updated>2024-11-15T11:00:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/one-thing-at-a-time-brown-hoodie"/>
+    <title>One Thing At A Time Brown Hoodie</title>
+    <s:type>Hoodie (pullover)</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/Brown-hoodie_02.png?v=1733767970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Hoodie (pullover)<br>
+        <strong>Price: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brown garment dyed hoodie featuring screen printed graphics on front and right sleeve.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>Apparel</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>Collective_morganwallen</s:tag>
+    <s:tag>Complex_Collective</s:tag>
+    <s:tag>mdwsale</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>MORGAN-37</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>post renovations</s:tag>
+    <s:tag>pre-order</s:tag>
+    <s:tag>Shopify Collective</s:tag>
+    <s:tag>sweatshirt</s:tag>
+    <s:tag>tourdiscount</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9729717502266</id>
+      <title>S</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>839541373</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9729717502266</id>
+      <title>M</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>839541374</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9729717502266</id>
+      <title>L</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>839541375</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9729717502266</id>
+      <title>XL</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>839541376</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9729717502266</id>
+      <title>2XL</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>839541377</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9729717502266</id>
+      <title>3XL</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>839541378</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9708075876666</id>
+    <published>2024-10-24T11:59:23-04:00</published>
+    <updated>2024-10-24T11:59:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/man-made-a-bar-tin-sign"/>
+    <title>Man Made A Bar Tin Sign</title>
+    <s:type>Other</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/ManMadeSign_Front.png?v=1731685886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>12" square tin sign with embossed graphics.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>Collective_morganwallen</s:tag>
+    <s:tag>Complex_Collective</s:tag>
+    <s:tag>mdwsale</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>MORGAN-36</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>post renovations</s:tag>
+    <s:tag>pre-order</s:tag>
+    <s:tag>sale applicable</s:tag>
+    <s:tag>Shopify Collective</s:tag>
+    <s:tag>tourdiscount</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:tag>winter-sale</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9708075876666</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>839541191</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9708067422522</id>
+    <published>2024-10-24T11:59:20-04:00</published>
+    <updated>2024-10-24T11:59:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/money-on-me-long-sleeve-t-shirt"/>
+    <title>Money On Me Long Sleeve T-Shirt</title>
+    <s:type>Longsleeve T-Shirt</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/LookinLS_Front.png?v=1731685283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Longsleeve T-Shirt<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Yam garment dyed long sleeve featuring screen printed graphics on front and back.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>Apparel</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>Collective_morganwallen</s:tag>
+    <s:tag>Complex_Collective</s:tag>
+    <s:tag>mdwsale</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>MORGAN-36</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>post renovations</s:tag>
+    <s:tag>pre-order</s:tag>
+    <s:tag>sale applicable</s:tag>
+    <s:tag>Shopify Collective</s:tag>
+    <s:tag>Tees</s:tag>
+    <s:tag>tourdiscount</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:tag>winter-sale</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9708067422522</id>
+      <title>S</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>839541523</s:sku>
+      <s:grams>231</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9708067422522</id>
+      <title>M</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>839541524</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9708067422522</id>
+      <title>L</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>839541525</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9708067422522</id>
+      <title>XL</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>839541526</s:sku>
+      <s:grams>331</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9708067422522</id>
+      <title>2XL</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>839541527</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9708067422522</id>
+      <title>3XL</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>839541528</s:sku>
+      <s:grams>367</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/9708056903994</id>
+    <published>2024-10-24T11:59:18-04:00</published>
+    <updated>2024-10-24T11:59:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/one-thing-at-a-time-burgundy-t-shirt"/>
+    <title>One Thing At A Time Burgundy T-Shirt</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/OTAATTee_Front.png?v=1731685572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Burgundy t-shirt featuring screen printed graphics on front and back. Relaxed and heavy weight fit.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>Apparel</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>Collective_morganwallen</s:tag>
+    <s:tag>Complex_Collective</s:tag>
+    <s:tag>mdwsale</s:tag>
+    <s:tag>Merch</s:tag>
+    <s:tag>MORGAN-36</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>post renovations</s:tag>
+    <s:tag>pre-order</s:tag>
+    <s:tag>sale applicable</s:tag>
+    <s:tag>Shopify Collective</s:tag>
+    <s:tag>Tees</s:tag>
+    <s:tag>tourdiscount</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>venuediscount2026</s:tag>
+    <s:tag>welcomediscount</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:tag>winter-sale</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9708056903994</id>
+      <title>S</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>839541493</s:sku>
+      <s:grams>236</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9708056903994</id>
+      <title>M</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>839541494</s:sku>
+      <s:grams>259</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9708056903994</id>
+      <title>L</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>839541495</s:sku>
+      <s:grams>290</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9708056903994</id>
+      <title>XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>839541496</s:sku>
+      <s:grams>313</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9708056903994</id>
+      <title>2XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>839541497</s:sku>
+      <s:grams>336</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/9708056903994</id>
+      <title>3XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>839541498</s:sku>
+      <s:grams>367</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/8209072324922</id>
+    <published>2023-08-11T19:49:31-04:00</published>
+    <updated>2023-08-11T19:49:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/one-thing-at-a-time-orange-webstore-exclusive-3lp"/>
+    <title>One Thing At A Time Orange Webstore Exclusive 3LP</title>
+    <s:type>3LP</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/products/004-WALLEN-2023-LPAnimation-PDP-1000x1000-v2.gif?v=1679669622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>3LP<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tracklist:</p>
+<p>DISC 1 <br data-mce-fragment="1">SIDE A<br data-mce-fragment="1">1. Born With A Beer In My Hand<br data-mce-fragment="1">2. Last Night<br data-mce-fragment="1">3. Everything I Love<br data-mce-fragment="1">4. Man Made A Bar (feat. Eric Church)<br data-mce-fragment="1">5. Devil Don’t Know<br data-mce-fragment="1">6. One Thing At A Time<br data-mce-fragment="1"><br data-mce-fragment="1">DISC 1<br data-mce-fragment="1">SIDE B<br data-mce-fragment="1">1. ’98 Braves<br data-mce-fragment="1">2. Ain’t That Some<br data-mce-fragment="1">3. I Wrote The Book<br data-mce-fragment="1">4. Tennessee Numbers<br data-mce-fragment="1">5. Hope That’s True<br data-mce-fragment="1">6. Whiskey Friends<br data-mce-fragment="1"><br data-mce-fragment="1">DISC 2<br data-mce-fragment="1">SIDE A<br data-mce-fragment="1">1. Sunrise<br data-mce-fragment="1">2. Keith Whitley<br data-mce-fragment="1">3. In The Bible (feat. HARDY)<br data-mce-fragment="1">4. You Proof<br data-mce-fragment="1">5. Thought You Should Know<br data-mce-fragment="1">6. F150-50<br data-mce-fragment="1"><br data-mce-fragment="1">DISC 2<br data-mce-fragment="1">SIDE B<br data-mce-fragment="1">1. Neon Star (Country Boy Lullaby)<br data-mce-fragment="1">2. I Deserve A Drink<br data-mce-fragment="1">3. Wine Into Water<br data-mce-fragment="1">4. Me + All Your Reasons<br data-mce-fragment="1">5. Tennessee Fan<br data-mce-fragment="1">6. Money On Me<br data-mce-fragment="1"><br data-mce-fragment="1">DISC 3<br data-mce-fragment="1">SIDE A<br data-mce-fragment="1">1. Thinkin’ Bout Me<br data-mce-fragment="1">2. Single Than She Was<br data-mce-fragment="1">3. Days That End In Why<br data-mce-fragment="1">4. Last Drive Down Main<br data-mce-fragment="1">5. Me To Me<br data-mce-fragment="1">6. Don’t Think Jesus<br data-mce-fragment="1"><br data-mce-fragment="1">DISC 3<br data-mce-fragment="1">SIDE B<br data-mce-fragment="1">1. 180 (Lifestyle)<br data-mce-fragment="1">2. Had It<br data-mce-fragment="1">3. Cowgirls (feat. ERNEST)<br data-mce-fragment="1">4. Good Girl Gone Missin’<br data-mce-fragment="1">5. Outlook<br data-mce-fragment="1">6. Dying Man<br data-mce-fragment="1"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#.line-limit</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>Collective_morganwallen</s:tag>
+    <s:tag>Complex_Collective</s:tag>
+    <s:tag>MORGAN-3</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>music-product</s:tag>
+    <s:tag>OTAATmusic</s:tag>
+    <s:tag>Shopify Collective</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/8209072324922</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>00602455190420</s:sku>
+      <s:grams>1261</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/8244225114426</id>
+    <published>2023-04-17T23:59:19-04:00</published>
+    <updated>2023-04-17T23:59:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/one-thing-at-a-time-bone-3lp"/>
+    <title>One Thing At A Time Bone 3LP</title>
+    <s:type>3LP</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/004-WALLEN-2023-LPAnimation-PDP-bone.gif?v=1698678281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>3LP<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tracklist:</p>
+<p>DISC 1 <br data-mce-fragment="1">SIDE A<br data-mce-fragment="1">1. Born With A Beer In My Hand<br data-mce-fragment="1">2. Last Night<br data-mce-fragment="1">3. Everything I Love<br data-mce-fragment="1">4. Man Made A Bar (feat. Eric Church)<br data-mce-fragment="1">5. Devil Don’t Know<br data-mce-fragment="1">6. One Thing At A Time<br data-mce-fragment="1"><br data-mce-fragment="1">DISC 1<br data-mce-fragment="1">SIDE B<br data-mce-fragment="1">1. ’98 Braves<br data-mce-fragment="1">2. Ain’t That Some<br data-mce-fragment="1">3. I Wrote The Book<br data-mce-fragment="1">4. Tennessee Numbers<br data-mce-fragment="1">5. Hope That’s True<br data-mce-fragment="1">6. Whiskey Friends<br data-mce-fragment="1"><br data-mce-fragment="1">DISC 2<br data-mce-fragment="1">SIDE A<br data-mce-fragment="1">1. Sunrise<br data-mce-fragment="1">2. Keith Whitley<br data-mce-fragment="1">3. In The Bible (feat. HARDY)<br data-mce-fragment="1">4. You Proof<br data-mce-fragment="1">5. Thought You Should Know<br data-mce-fragment="1">6. F150-50<br data-mce-fragment="1"><br data-mce-fragment="1">DISC 2<br data-mce-fragment="1">SIDE B<br data-mce-fragment="1">1. Neon Star (Country Boy Lullaby)<br data-mce-fragment="1">2. I Deserve A Drink<br data-mce-fragment="1">3. Wine Into Water<br data-mce-fragment="1">4. Me + All Your Reasons<br data-mce-fragment="1">5. Tennessee Fan<br data-mce-fragment="1">6. Money On Me<br data-mce-fragment="1"><br data-mce-fragment="1">DISC 3<br data-mce-fragment="1">SIDE A<br data-mce-fragment="1">1. Thinkin’ Bout Me<br data-mce-fragment="1">2. Single Than She Was<br data-mce-fragment="1">3. Days That End In Why<br data-mce-fragment="1">4. Last Drive Down Main<br data-mce-fragment="1">5. Me To Me<br data-mce-fragment="1">6. Don’t Think Jesus<br data-mce-fragment="1"><br data-mce-fragment="1">DISC 3<br data-mce-fragment="1">SIDE B<br data-mce-fragment="1">1. 180 (Lifestyle)<br data-mce-fragment="1">2. Had It<br data-mce-fragment="1">3. Cowgirls (feat. ERNEST)<br data-mce-fragment="1">4. Good Girl Gone Missin’<br data-mce-fragment="1">5. Outlook<br data-mce-fragment="1">6. Dying Man<br data-mce-fragment="1"><br data-mce-fragment="1"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#.cart-limit</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>Collective_morganwallen</s:tag>
+    <s:tag>Complex_Collective</s:tag>
+    <s:tag>MORGAN-5</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>music-product</s:tag>
+    <s:tag>OTAATmusic</s:tag>
+    <s:tag>Shopify Collective</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/8244225114426</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>00602455190338</s:sku>
+      <s:grams>1261</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/8240611492154</id>
+    <published>2023-04-14T00:00:19-04:00</published>
+    <updated>2023-04-14T00:00:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/one-thing-at-a-time-evergreen-webstore-exclusive-3lp"/>
+    <title>One Thing At A Time Evergreen Webstore Exclusive 3LP</title>
+    <s:type>3LP</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/files/004-WALLEN-2023-LPAnimation-PDP-green.gif?v=1698678317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>3LP<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tracklist:</p>
+<p>DISC 1 <br data-mce-fragment="1">SIDE A<br data-mce-fragment="1">1. Born With A Beer In My Hand<br data-mce-fragment="1">2. Last Night<br data-mce-fragment="1">3. Everything I Love<br data-mce-fragment="1">4. Man Made A Bar (feat. Eric Church)<br data-mce-fragment="1">5. Devil Don’t Know<br data-mce-fragment="1">6. One Thing At A Time<br data-mce-fragment="1"><br data-mce-fragment="1">DISC 1<br data-mce-fragment="1">SIDE B<br data-mce-fragment="1">1. ’98 Braves<br data-mce-fragment="1">2. Ain’t That Some<br data-mce-fragment="1">3. I Wrote The Book<br data-mce-fragment="1">4. Tennessee Numbers<br data-mce-fragment="1">5. Hope That’s True<br data-mce-fragment="1">6. Whiskey Friends<br data-mce-fragment="1"><br data-mce-fragment="1">DISC 2<br data-mce-fragment="1">SIDE A<br data-mce-fragment="1">1. Sunrise<br data-mce-fragment="1">2. Keith Whitley<br data-mce-fragment="1">3. In The Bible (feat. HARDY)<br data-mce-fragment="1">4. You Proof<br data-mce-fragment="1">5. Thought You Should Know<br data-mce-fragment="1">6. F150-50<br data-mce-fragment="1"><br data-mce-fragment="1">DISC 2<br data-mce-fragment="1">SIDE B<br data-mce-fragment="1">1. Neon Star (Country Boy Lullaby)<br data-mce-fragment="1">2. I Deserve A Drink<br data-mce-fragment="1">3. Wine Into Water<br data-mce-fragment="1">4. Me + All Your Reasons<br data-mce-fragment="1">5. Tennessee Fan<br data-mce-fragment="1">6. Money On Me<br data-mce-fragment="1"><br data-mce-fragment="1">DISC 3<br data-mce-fragment="1">SIDE A<br data-mce-fragment="1">1. Thinkin’ Bout Me<br data-mce-fragment="1">2. Single Than She Was<br data-mce-fragment="1">3. Days That End In Why<br data-mce-fragment="1">4. Last Drive Down Main<br data-mce-fragment="1">5. Me To Me<br data-mce-fragment="1">6. Don’t Think Jesus<br data-mce-fragment="1"><br data-mce-fragment="1">DISC 3<br data-mce-fragment="1">SIDE B<br data-mce-fragment="1">1. 180 (Lifestyle)<br data-mce-fragment="1">2. Had It<br data-mce-fragment="1">3. Cowgirls (feat. ERNEST)<br data-mce-fragment="1">4. Good Girl Gone Missin’<br data-mce-fragment="1">5. Outlook<br data-mce-fragment="1">6. Dying Man<br data-mce-fragment="1"><br data-mce-fragment="1"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#.cart-limit</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>Collective_morganwallen</s:tag>
+    <s:tag>Complex_Collective</s:tag>
+    <s:tag>MORGAN-4</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>music-product</s:tag>
+    <s:tag>OTAATmusic</s:tag>
+    <s:tag>Shopify Collective</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/8240611492154</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>00602455190406</s:sku>
+      <s:grams>1261</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/8167392739642</id>
+    <published>2023-03-01T11:44:02-05:00</published>
+    <updated>2023-03-01T11:44:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/one-thing-at-a-time-cd"/>
+    <title>One Thing At A Time CD</title>
+    <s:type>2CD</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/products/MWCDnew_1.png?v=1681445100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>2CD<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tracklist:</p>
+<p>1. Born With A Beer In My Hand<br>2. Last Night<br>3. Everything I Love<br>4. Man Made A Bar (feat. Eric Church)<br>5. Devil Don’t Know<br>6. One Thing At A Time<br>7. ’98 Braves<br>8. Ain’t That Some<br>9. I Wrote The Book<br>10. Tennessee Numbers<br>11. Hope That’s True<br>12. Whiskey Friends<br>13. Sunrise<br>14. Keith Whitley<br>15. In The Bible (feat. HARDY)<br>16. You Proof<br>17. Thought You Should Know<br>18. F150-50<br>19. Neon Star (Country Boy Lullaby)<br>20. I Deserve A Drink<br>21. Wine Into Water<br>22. Me + All Your Reasons<br>23. Tennessee Fan<br>24. Money On Me<br>25. Thinkin’ Bout Me<br>26. Single Than She Was<br>27. Days That End In Why<br>28. Last Drive Down Main<br>29. Me To Me<br>30. Don’t Think Jesus<br>31. 180 (Lifestyle)<br>32. Had It<br>33. Cowgirls (feat. ERNEST)<br>34. Good Girl Gone Missin’<br>35. Outlook<br>36. Dying Man<br></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#.cart-limit</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>bfcm25</s:tag>
+    <s:tag>Collective_morganwallen</s:tag>
+    <s:tag>Complex_Collective</s:tag>
+    <s:tag>MORGAN-1</s:tag>
+    <s:tag>morganCD</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>music-product</s:tag>
+    <s:tag>OTAATmusic</s:tag>
+    <s:tag>Shopify Collective</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>WH_CYCLE_COUNT</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/8167392739642</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>00602455190611</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.morganwallen.com/products/8167366000954</id>
+    <published>2023-03-01T11:44:02-05:00</published>
+    <updated>2023-03-01T11:44:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.morganwallen.com/products/one-thing-at-a-time-digital-album"/>
+    <title>One Thing At A Time Digital Album</title>
+    <s:type>Digital</s:type>
+    <s:vendor>Morgan Wallen Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/8746/8346/products/OTAATDigital.png?v=1677599477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morgan Wallen Official Store<br>
+        <strong>Type: </strong>Digital<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tracklist:</p>
+<p>1. Born With A Beer In My Hand<br>2. Last Night<br>3. Everything I Love<br>4. Man Made A Bar (feat. Eric Church)<br>5. Devil Don’t Know<br>6. One Thing At A Time<br>7. ’98 Braves<br>8. Ain’t That Some<br>9. I Wrote The Book<br>10. Tennessee Numbers<br>11. Hope That’s True<br>12. Whiskey Friends<br>13. Sunrise<br>14. Keith Whitley<br>15. In The Bible (feat. HARDY)<br>16. You Proof<br>17. Thought You Should Know<br>18. F150-50<br>19. Neon Star (Country Boy Lullaby)<br>20. I Deserve A Drink<br>21. Wine Into Water<br>22. Me + All Your Reasons<br>23. Tennessee Fan<br>24. Money On Me<br>25. Thinkin’ Bout Me<br>26. Single Than She Was<br>27. Days That End In Why<br>28. Last Drive Down Main<br>29. Me To Me<br>30. Don’t Think Jesus<br>31. 180 (Lifestyle)<br>32. Had It<br>33. Cowgirls (feat. ERNEST)<br>34. Good Girl Gone Missin’<br>35. Outlook<br>36. Dying Man</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Digital downloads are delivered as MP3 44.1KHZ/24-BIT audio files</span></p>
+<p data-mce-fragment="1"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#.line-limit</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>Digital</s:tag>
+    <s:tag>geo-only-us</s:tag>
+    <s:tag>MORGAN-1</s:tag>
+    <s:tag>Music</s:tag>
+    <s:tag>music-product</s:tag>
+    <s:tag>OTAATmusic</s:tag>
+    <s:tag>umg-upsell</s:tag>
+    <s:tag>USONLY</s:tag>
+    <s:variant>
+      <id>https://shop.morganwallen.com/products/8167366000954</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>00602455241788</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
